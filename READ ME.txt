@@ -1,0 +1,7 @@
+After a battle whitewolfs XP,GOLD can be changed.So if need to reset the status of the whitewolf.Please copy "whitewolf.ser" from the WHITEWOLFPLAYER folder and replace. 
+
+Susa,Thejitha,Theeksha,Harsha are the members of group.
+
+
+When we create two new players they will never gain XP or Gold Becouse of the given game logics.
+Therefore a supercharacter called "Hacker" is introduced for further test cases.

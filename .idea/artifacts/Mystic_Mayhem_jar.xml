@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mystic_Mayhem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mystic_Mayhem_jar</output-path>
+    <root id="archive" name="Mystic_Mayhem.jar">
+      <element id="module-output" name="Mystic_Mayhem" />
+    </root>
+  </artifact>
+</component>
